@@ -1,3 +1,1 @@
-#1/bin/bash
-mkdir my_dir
-chmode 751 ..
+#!/bin/bash
