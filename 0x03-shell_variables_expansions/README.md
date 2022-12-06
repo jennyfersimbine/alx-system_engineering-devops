@@ -5,3 +5,4 @@ export PATH = "$PATH:/action" - creates dir in path and sets to the end
 find $PATH ...
 printenv
 set - print local variables
+best="School" - creating local variable
